@@ -1,0 +1,3 @@
+[submodule "eiti_wdc"]
+	path = eiti_wdc
+	url = https://github.com/iainsc/eiti_wdc
